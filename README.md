@@ -7,3 +7,8 @@ To compile and run, use the following:
 
 g++ banker.cpp -o banker
 ./banker
+
+
+Here is a example output in the terminal. 
+
+![OS proj 2](https://github.com/IanE1692/OS-Bankers-Algorithm/assets/127979786/5f1fd5a8-5232-4347-8710-d0cda8c4d9cf)
